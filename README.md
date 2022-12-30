@@ -1,6 +1,10 @@
 # Predicting-House-Prices-Using-Advanced-Regression
 A Machine Learning Approach to Predicting House Prices Using Advanced Regression Techniques Case Study: Ames, Iowa State
 
+
+![ames](https://user-images.githubusercontent.com/121521717/210034427-16731c9e-0628-4d1b-9f59-59f08429f03f.jpg)
+
+
 ## Introduction
   
 Kaggle has launched a competitive competition that aims not so much to get a monetary prize as to help spread the science of machine learning and open many areas of discussion among scientific researchers.
